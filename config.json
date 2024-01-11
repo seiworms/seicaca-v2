@@ -1,0 +1,33 @@
+{
+    "mnemonic": "disease awful payment minor wage consider key dignity club question scout tank",
+    "rpc": "https://rpc.wallet.pacific-1.sei.io",
+    "network": "pacific-1",
+    "name": "seicaca",
+    "symbol": "caca",
+    "description": "",
+    "supply": 1000,
+    "token_uri": "",
+    "royalty_percent": 8,
+    "royalty_wallet": "sei1mggja9aygwrs22tdcv2ulr3rcezmftvrhr00xd",
+    "iterated_uri": true,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 1,
+            "unit_price": 10,
+            "creators": [
+                {
+                    "address": "sei1mggja9aygwrs22tdcv2ulr3rcezmftvrhr00xd",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-01-10T23:24:13Z",
+            "end_time": null
+        }
+    ]
+}
